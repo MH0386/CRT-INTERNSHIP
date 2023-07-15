@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Task 1; Spam Detection\SPAM text message 20170820 - Data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
