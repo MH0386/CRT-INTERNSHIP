@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02c98e3d-7b89-4041-91b0-0f5c1751cd9a" name="Changes" comment="gitignore">
+    <list default="true" id="02c98e3d-7b89-4041-91b0-0f5c1751cd9a" name="Changes" comment="tensorflow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task 1; Spam Detection/Task1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1; Spam Detection/Task1.ipynb" afterDir="false" />
     </list>
@@ -101,7 +101,7 @@
       <workItem from="1689067576996" duration="384000" />
       <workItem from="1689067990746" duration="2439000" />
       <workItem from="1689071455429" duration="1035000" />
-      <workItem from="1689094676473" duration="2046000" />
+      <workItem from="1689094676473" duration="5425000" />
     </task>
     <task id="LOCAL-00001" summary="f">
       <option name="closed" value="true" />
@@ -191,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689068122262</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="tensorflow">
+      <option name="closed" value="true" />
+      <created>1689100867052</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689100867052</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +220,7 @@
     <MESSAGE value="f" />
     <MESSAGE value="pytorch" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="tensorflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="tensorflow" />
   </component>
 </project>
