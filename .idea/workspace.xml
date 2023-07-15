@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02c98e3d-7b89-4041-91b0-0f5c1751cd9a" name="Changes" comment="tensorflow">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task 1; Spam Detection/spam-detection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CRT-INTERNSHIP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CRT-INTERNSHIP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a02ea5258991a5e9c7fb80b82dc24210ba48d540" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/0/a02ea5258991a5e9c7fb80b82dc24210ba48d540" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 1; Spam Detection/Task1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1; Spam Detection/Task1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1; Spam Detection/Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Task 1; Spam Detection/SPAM text message 20170820 - Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 1; Spam Detection/Task1.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +80,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -102,6 +111,8 @@
       <workItem from="1689067990746" duration="2439000" />
       <workItem from="1689071455429" duration="1035000" />
       <workItem from="1689094676473" duration="5425000" />
+      <workItem from="1689455216756" duration="2473000" />
+      <workItem from="1689457752845" duration="1719000" />
     </task>
     <task id="LOCAL-00001" summary="f">
       <option name="closed" value="true" />
