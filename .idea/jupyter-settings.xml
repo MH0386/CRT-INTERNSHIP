@@ -11,6 +11,13 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/t/dsProject/.idea/dsProject.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
