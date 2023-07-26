@@ -1,4 +1,4 @@
-# spam_detection
+# Spam Detection
 
 ## Task 1 in Coding Raja Technologies Internship in Machine Learning
 
